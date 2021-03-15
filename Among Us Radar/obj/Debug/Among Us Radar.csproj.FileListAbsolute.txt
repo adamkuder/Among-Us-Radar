@@ -1,0 +1,16 @@
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\bin\Debug\Among Us Radar.exe.config
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\bin\Debug\Among Us Radar.exe
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\bin\Debug\Among Us Radar.pdb
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\bin\Debug\Memory.dll
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\bin\Debug\Memory.xml
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\obj\Debug\Among Us Radar.csprojAssemblyReference.cache
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\obj\Debug\Among_Us_Radar.Form1.resources
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\obj\Debug\Among_Us_Radar.Properties.Resources.resources
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\obj\Debug\Among Us Radar.csproj.GenerateResource.cache
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\obj\Debug\Among Us Radar.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\obj\Debug\Among Us Radar.csproj.CopyComplete
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\obj\Debug\Among Us Radar.exe
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\obj\Debug\Among Us Radar.pdb
+C:\Users\adamk\source\repos\Among Us Radar\Among Us Radar\obj\Debug\Among_Us_Radar.FormErrorOpenProcess.resources
